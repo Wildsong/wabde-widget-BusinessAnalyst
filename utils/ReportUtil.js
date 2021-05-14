@@ -411,7 +411,7 @@ function (Deferred, all, when, array, esriRequest, portalUtils, nls) {
                             num: 100,
                             sortField: "modified",
                             sortOrder: "desc",
-                            q: 'typekeywords:(esriReportPlayerStandardInfographic jsapiVersion3.35)'
+                            q: 'typekeywords:(esriWebStandardInfographicReport)'
                         }
                     }, self._cachedInfographicReports));
                 }

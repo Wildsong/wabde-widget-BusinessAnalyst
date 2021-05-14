@@ -14,7 +14,7 @@ define({
   "home": "Domov",
   "image": "Obrázok",
   "infographics": "Infografiky",
-  "invalidValueRing": "Hodnoty musia byť v rozmedzí od 0 do 1,000.",
+  "invalidValueRing": "Hodnoty musia byť v rozmedzí od 0 do 1 000.",
   "invalidValueDTWT": "Hodnoty musia byť v rozmedzí od 0 do 300.",
   "km": "km",
   "makeDefault": "Urobiť predvolené",

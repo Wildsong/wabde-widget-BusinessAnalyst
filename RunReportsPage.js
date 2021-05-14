@@ -311,9 +311,9 @@ function (array, declare, lang, domClass, domConstruct, domStyle, query, when, _
         resizeMode: PlayerResizeModes.FIT_WINDOW,
         showCloseButton: true,
         config: {
-          esriDijitCssUrl: "https://js.arcgis.com/3.35/dijit/themes/claro/claro.css",
-          esriCssUrl: "https://js.arcgis.com/3.35/esri/css/esri.css",
-          playerSourceRootUrl: "https://js.arcgis.com/3.35/"
+          esriDijitCssUrl: "https://js.arcgis.com/3.36/dijit/themes/claro/claro.css",
+          esriCssUrl: "https://js.arcgis.com/3.36/esri/css/esri.css",
+          playerSourceRootUrl: "https://js.arcgis.com/3.36/"
         },
         onClose: function () {
           self.reportPlayer.destroy();
