@@ -1,4 +1,4 @@
-﻿/**
+/**
 Allows to monitor the mouse cursor and check if it's over a component.
 */
 define(

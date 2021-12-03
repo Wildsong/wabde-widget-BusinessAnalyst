@@ -701,7 +701,7 @@ function (array, declare, html, domClass, domConstruct, domStyle, mouse, on, que
             });
           }
 
-          if (!self.config.countryConfig[configIndex].allowAllEsriInfographics) {
+          if (!self.config.countryConfig[configIndex].allowAllOrgReports) {
             array.forEach(reports[1].children.concat(reports[2].children), function (child) {
               if (!array.some(self.config.countryConfig[configIndex].enabledOrgReports, function(enabledID) { return child.value === enabledID })) {
                 child.selected = false;

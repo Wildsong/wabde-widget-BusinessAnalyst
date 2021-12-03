@@ -1,4 +1,4 @@
-﻿/*
+/*
  Mixin to SelectableTreeGrid
 */
 define([

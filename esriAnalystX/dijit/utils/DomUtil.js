@@ -1,4 +1,4 @@
-﻿/**
+/**
  Useful utility methods for work with DOM objects.
  */
 define(

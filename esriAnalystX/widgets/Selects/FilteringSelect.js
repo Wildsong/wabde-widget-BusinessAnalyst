@@ -1,4 +1,4 @@
-﻿// Deprectated: uses old dojo components, which are very slow when 10000+ elements are present in the list.
+// Deprectated: uses old dojo components, which are very slow when 10000+ elements are present in the list.
 define([
     "dojo/_base/declare",
     "dojo/store/Memory",
